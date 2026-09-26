@@ -1,0 +1,83 @@
+{
+  "orden": [
+    {
+      "identificador": "bs-270110",
+      "titulo": "BS 270110",
+      "url": "https://archive.org/download/bs-270110/BS270110.mp3",
+      "duracion": 3600.03
+    },
+    {
+      "identificador": "bs-270106",
+      "titulo": "BS 270106",
+      "url": "https://archive.org/download/bs-270106/BS270106.mp3",
+      "duracion": 3600.04
+    },
+    {
+      "identificador": "bs-270115",
+      "titulo": "BS 270115",
+      "url": "https://archive.org/download/bs-270115/BS270115.mp3",
+      "duracion": 3600.03
+    },
+    {
+      "identificador": "bs-270107",
+      "titulo": "BS 270107",
+      "url": "https://archive.org/download/bs-270107/BS270107.mp3",
+      "duracion": 3600.03
+    },
+    {
+      "identificador": "bs-270117",
+      "titulo": "BS 270117",
+      "url": "https://archive.org/download/bs-270117/BS270117.mp3",
+      "duracion": 3600.03
+    },
+    {
+      "identificador": "bs-270109",
+      "titulo": "BS 270109",
+      "url": "https://archive.org/download/bs-270109/BS270109.mp3",
+      "duracion": 3600.03
+    },
+    {
+      "identificador": "bs-270112",
+      "titulo": "BS 270112",
+      "url": "https://archive.org/download/bs-270112/BS270112.mp3",
+      "duracion": 3600.03
+    },
+    {
+      "identificador": "bs-270113",
+      "titulo": "BS 270113",
+      "url": "https://archive.org/download/bs-270113/BS270113.mp3",
+      "duracion": 3600.03
+    },
+    {
+      "identificador": "bs-270108",
+      "titulo": "BS 270108",
+      "url": "https://archive.org/download/bs-270108/BS270108.mp3",
+      "duracion": 3600.02
+    },
+    {
+      "identificador": "bs-270105",
+      "titulo": "BS 270105",
+      "url": "https://archive.org/download/bs-270105/BS270105.mp3",
+      "duracion": 3600.06
+    },
+    {
+      "identificador": "bs-270114",
+      "titulo": "BS 270114",
+      "url": "https://archive.org/download/bs-270114/BS270114.mp3",
+      "duracion": 3600.03
+    },
+    {
+      "identificador": "bs-270116",
+      "titulo": "BS 270116",
+      "url": "https://archive.org/download/bs-270116/BS270116.mp3",
+      "duracion": 3600.02
+    },
+    {
+      "identificador": "bs-270111",
+      "titulo": "BS 270111",
+      "url": "https://archive.org/download/bs-270111/BS270111.mp3",
+      "duracion": 3600.02
+    }
+  ],
+  "epoch_inicio": 1790399457.613364
+}
