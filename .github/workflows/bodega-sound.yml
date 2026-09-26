@@ -1,0 +1,21 @@
+name: Actualizar playlist Bodega-Sound
+ 
+on:
+  schedule:
+    - cron: "0 6 * * *"   # todos los días a las 06:00 UTC (08:00 en España en horario de verano)
+  workflow_dispatch: {}    # permite lanzarlo también a mano desde la pestaña "Actions" de GitHub
+ 
+permissions:
+  contents: write          # necesario para que el script pueda subir el archivo actualizado
+ 
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+ 
+      - name: Ejecutar el script
+        run: python3 generar_playlist_bodega_sound.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
